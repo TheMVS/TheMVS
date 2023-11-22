@@ -7,7 +7,7 @@ You have found my GitHub profile. I am [Alejandro Puente Castro](https://pdi.udc
 BSc. in Computer Science, gained my MSc. in Bioinformatics for Health Sciences and have worked in fields, such as early detection of Alzheimer’s disease using Deep Learning techniques or self-quantification. Currently, my research is focused on applying Artificial Intelligence techniques to the coordination of heterogeneous groups of Unmanned Aerial Vehicles (UAVs) and Bioinformatics.
 
 ## My publications
-- [Q-Learning based system for Path Planning with Unmanned Aerial Vehicles swarms in obstacle environments]([https://link.springer.com/article/10.1007/s10489-022-03254-4](https://www.sciencedirect.com/science/article/pii/S0957417423017426)), Expert Systems with Applications (2024)
+- [Q-Learning based system for Path Planning with Unmanned Aerial Vehicles swarms in obstacle environments](https://www.sciencedirect.com/science/article/pii/S0957417423017426), Expert Systems with Applications (2024)
 - [UAV swarm path planning with reinforcement learning for field prospecting](https://link.springer.com/article/10.1007/s10489-022-03254-4), Applied Intelligence (2022)
 - [A review of artificial intelligence applied to path planning in UAV swarms](https://link.springer.com/article/10.1007/s00521-021-06569-4), Neural Computing and Applications (2022)
 - [Using Reinforcement Learning in the Path Planning of Swarms of UAVs for the Photographic Capture of Terrains](https://www.mdpi.com/2673-4591/7/1/32/htm), Engineering Proceedings (2021)
